@@ -1,0 +1,31 @@
+{
+    "files.associations": {
+        "glfw3.h": "c",
+        "glad.h": "c",
+        "stdio.h": "c",
+        "mat4.h": "c",
+        "camera.h": "c",
+        "window.h": "c",
+        "cglm.h": "c",
+        "cam.h": "c",
+        "vo.h": "c",
+        "array": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "stdlib.h": "c",
+        "stb_image.h": "c",
+        "math.h": "c",
+        "mesh.h": "c",
+        "block.h": "c",
+        "gamehandler.h": "c",
+        "texture.h": "c",
+        "shader.h": "c",
+        "cmath": "c",
+        "terap.h": "c",
+        "perlin.h": "c",
+        "world.h": "c",
+        "player.h": "c",
+        "spite.h": "c",
+        "sprite.h": "c"
+    }
+}
